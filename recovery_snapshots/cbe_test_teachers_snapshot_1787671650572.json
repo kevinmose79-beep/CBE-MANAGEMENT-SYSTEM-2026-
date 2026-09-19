@@ -1,0 +1,40 @@
+{
+  "snapshot_timestamp": 1787671650572,
+  "target_teacher_ids": [
+    "56aa3e4f-2399-4e87-91aa-588e8bb59abd",
+    "e8143e4d-4185-4598-97e6-3070f1259cb9"
+  ],
+  "teachers": [
+    {
+      "id": "56aa3e4f-2399-4e87-91aa-588e8bb59abd",
+      "user_id": null,
+      "teacher_name": "Test Teacher 1785574605292",
+      "tsc_number": "TSC1785574605292",
+      "phone": "+254700000111",
+      "email": "test_teacher_1785574605292@example.com",
+      "is_class_teacher": true,
+      "created_at": "2026-08-01T08:56:45.684276+00:00",
+      "updated_at": "2026-08-01T08:56:45.684276+00:00"
+    },
+    {
+      "id": "e8143e4d-4185-4598-97e6-3070f1259cb9",
+      "user_id": null,
+      "teacher_name": "End to End Test Teacher 1785574890386",
+      "tsc_number": "TSC_E2E_1785574890386",
+      "phone": "+254700000222",
+      "email": "test_teacher_E2E_1785574890386@example.com",
+      "is_class_teacher": true,
+      "created_at": "2026-08-01T09:01:30.872111+00:00",
+      "updated_at": "2026-08-01T09:01:30.872111+00:00"
+    }
+  ],
+  "protected_staff_verified": [
+    "brianayiecha52@gmail.com",
+    "admin@cbe.ac.ke",
+    "trixiemode@school.ac.ke",
+    "kevinmose79@gmail.com",
+    "emmanuelmomanyi34@gmail.com",
+    "moraasusan02@gmail.com",
+    "dariusholloway667@gmail.com"
+  ]
+}

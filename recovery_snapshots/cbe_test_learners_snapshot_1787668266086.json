@@ -1,0 +1,1649 @@
+{
+  "timestamp": "2026-08-25T14:31:06.085Z",
+  "students": [
+    {
+      "id": "3ca77b5d-1842-4700-9c07-b5577f129777",
+      "admission_number": "211",
+      "full_name": "Tracer Combs",
+      "gender": "F",
+      "class_id": "9ffe3a1d-f4fa-4f60-9800-a84fe9a55963",
+      "stream_id": "3f7a7ea2-08fa-4493-b774-cceafa8a700a",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-14T21:12:57.449413+00:00",
+      "updated_at": "2026-08-14T21:12:57.449413+00:00"
+    },
+    {
+      "id": "257baa18-563c-4ef1-b459-3c725edfe7fe",
+      "admission_number": "478",
+      "full_name": "Beak Walker",
+      "gender": "M",
+      "class_id": "434bf523-ea02-4c36-bc4f-2f1d4edd9476",
+      "stream_id": "d831b9b3-6f65-4a62-ab67-d173f76d5632",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-14T21:13:49.476611+00:00",
+      "updated_at": "2026-08-14T21:13:49.476611+00:00"
+    },
+    {
+      "id": "b124ab79-ab87-4ebe-a04b-fb1b03f463a5",
+      "admission_number": "45",
+      "full_name": "Jon Kopps",
+      "gender": "F",
+      "class_id": "9ffe3a1d-f4fa-4f60-9800-a84fe9a55963",
+      "stream_id": "3f7a7ea2-08fa-4493-b774-cceafa8a700a",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-11T07:16:13.274727+00:00",
+      "updated_at": "2026-08-14T21:21:57.048+00:00"
+    },
+    {
+      "id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "admission_number": "200",
+      "full_name": "Kate Sheila",
+      "gender": "F",
+      "class_id": "c79816ee-1324-4abb-b5ad-d974f232b2ad",
+      "stream_id": "8a9c07bb-1bbf-4d99-85be-3468a6457305",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-09T12:26:56.229168+00:00",
+      "updated_at": "2026-08-11T07:31:36.865+00:00"
+    },
+    {
+      "id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "admission_number": "100",
+      "full_name": "Becker Johnson",
+      "gender": "F",
+      "class_id": "c79816ee-1324-4abb-b5ad-d974f232b2ad",
+      "stream_id": "8a9c07bb-1bbf-4d99-85be-3468a6457305",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-10T10:27:17.985612+00:00",
+      "updated_at": "2026-08-11T07:46:32.397+00:00"
+    },
+    {
+      "id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "admission_number": "300",
+      "full_name": "Quinn Taylor",
+      "gender": "M",
+      "class_id": "0e49e9b0-0a82-4f4b-9109-685b0103a54c",
+      "stream_id": "95e8ff02-6d67-433f-a417-2d74e2012793",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-11T08:12:52.128691+00:00",
+      "updated_at": "2026-08-11T08:12:52.128691+00:00"
+    },
+    {
+      "id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "admission_number": "230",
+      "full_name": "Marcus Jordan",
+      "gender": "M",
+      "class_id": "0e49e9b0-0a82-4f4b-9109-685b0103a54c",
+      "stream_id": "3d0ecb00-3e0f-425a-8d69-59f6c9f18b40",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-11T08:12:14.15522+00:00",
+      "updated_at": "2026-08-11T08:13:17.409+00:00"
+    },
+    {
+      "id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "admission_number": "234",
+      "full_name": "Kevin Mose",
+      "gender": "M",
+      "class_id": "c79816ee-1324-4abb-b5ad-d974f232b2ad",
+      "stream_id": "8eb5e4a0-2c5a-46be-bcff-b109216e9cd8",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-09T12:15:34.745181+00:00",
+      "updated_at": "2026-08-11T19:51:41.57+00:00"
+    },
+    {
+      "id": "09c0aedd-3a7e-4e37-8c21-ce2016a9c6a1",
+      "admission_number": "456",
+      "full_name": "Mwangi Kamau",
+      "gender": "M",
+      "class_id": "2158c4ae-d22a-44f5-9220-fc6ac34de127",
+      "stream_id": "c23e2068-8499-49b7-a78b-3b8264f2b9a8",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-12T09:52:33.55198+00:00",
+      "updated_at": "2026-08-12T09:52:33.55198+00:00"
+    },
+    {
+      "id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "admission_number": "224",
+      "full_name": "Astecy Kwamboka",
+      "gender": "F",
+      "class_id": "2158c4ae-d22a-44f5-9220-fc6ac34de127",
+      "stream_id": "92d3fa3a-9902-4d3f-9f5b-ae23e0feccac",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-12T07:55:50.957018+00:00",
+      "updated_at": "2026-08-15T16:32:26.319+00:00"
+    },
+    {
+      "id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "admission_number": "78",
+      "full_name": "Britney Spears",
+      "gender": "F",
+      "class_id": "6ed8a9ed-d33b-4976-9076-fd175d22f60e",
+      "stream_id": "c061fdba-fa77-46d2-a63c-d6d8ec2e99c6",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-11T07:14:06.700798+00:00",
+      "updated_at": "2026-08-15T17:53:25.816+00:00"
+    },
+    {
+      "id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "admission_number": "567",
+      "full_name": "Brian Ayiecha",
+      "gender": "M",
+      "class_id": "c79816ee-1324-4abb-b5ad-d974f232b2ad",
+      "stream_id": "8a9c07bb-1bbf-4d99-85be-3468a6457305",
+      "dob": null,
+      "parent_name": null,
+      "parent_phone": null,
+      "parent_email": null,
+      "active": true,
+      "created_at": "2026-08-09T06:35:52.998235+00:00",
+      "updated_at": "2026-08-18T19:55:42.505+00:00"
+    }
+  ],
+  "marks": [
+    {
+      "id": "9fea5873-81ce-407c-b127-2cda3bb612f0",
+      "student_id": "3ca77b5d-1842-4700-9c07-b5577f129777",
+      "subject_id": "13190d4a-380f-4fe0-b6a0-05e54c4a0b41",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:15:16.160042+00:00",
+      "updated_at": "2026-08-14T21:15:15.517+00:00"
+    },
+    {
+      "id": "4189ed5f-a19a-4dd2-90f3-b7ac4f044a65",
+      "student_id": "257baa18-563c-4ef1-b459-3c725edfe7fe",
+      "subject_id": "c38b548b-270c-4bc1-a5db-946801a1c8ae",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:15:55.394359+00:00",
+      "updated_at": "2026-08-14T21:15:54.661+00:00"
+    },
+    {
+      "id": "a0e19784-f90e-4c4a-9b15-7694ebfb2890",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-09T14:41:28.241239+00:00",
+      "updated_at": "2026-08-09T14:41:32.265+00:00"
+    },
+    {
+      "id": "157341cd-cfea-402c-8263-0b0c1020d1cd",
+      "student_id": "257baa18-563c-4ef1-b459-3c725edfe7fe",
+      "subject_id": "0f2f61fc-1d31-40fd-a69e-f23ff8edf840",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 67,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:16:37.935596+00:00",
+      "updated_at": "2026-08-14T21:16:37.236+00:00"
+    },
+    {
+      "id": "54228e44-2b27-474e-9bba-233193e0f765",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "5d9beb86-1268-40cb-bae6-7f8e4b998ea2",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 52.17,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":12,\"out_of\":23,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-09T14:41:51.643541+00:00",
+      "updated_at": "2026-08-09T14:41:50.862+00:00"
+    },
+    {
+      "id": "43bd92cb-d3c8-4396-9092-9835947b27ba",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T17:53:47.6803+00:00",
+      "updated_at": "2026-08-15T17:53:46.876+00:00"
+    },
+    {
+      "id": "bacc3cbe-9d48-46ca-a7c7-472a50bc1d74",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 67,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T17:58:10.918298+00:00",
+      "updated_at": "2026-08-15T17:58:10.304+00:00"
+    },
+    {
+      "id": "4eaaf18a-18b3-4aeb-9c51-87693216f0c3",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "38575c6c-dfa4-4b2b-bcd3-7bf9e1e9763d",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 90,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":90,\"out_of\":100}",
+      "created_at": "2026-08-09T13:40:42.489761+00:00",
+      "updated_at": "2026-08-09T13:42:01.214+00:00"
+    },
+    {
+      "id": "79b95917-893c-48cb-9d77-f177666434d9",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 45,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:23:50.02169+00:00",
+      "updated_at": "2026-08-23T18:32:12.48+00:00"
+    },
+    {
+      "id": "2796ab12-348b-4efd-8b8a-0619aedc623b",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 56,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":56,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-09T14:40:35.57242+00:00",
+      "updated_at": "2026-08-19T19:43:54.122+00:00"
+    },
+    {
+      "id": "b98031f0-b1a1-4c63-ad35-f3e921203891",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 47,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":47,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:23:50.02169+00:00",
+      "updated_at": "2026-08-23T18:32:12.48+00:00"
+    },
+    {
+      "id": "a4f2de7d-a7e6-4a79-a59d-ba0052fb60f3",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "b65c16d5-a38c-478e-ab46-085170ee31da",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 95.71,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":70,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-09T14:39:39.090896+00:00",
+      "updated_at": "2026-08-09T14:39:38.022+00:00"
+    },
+    {
+      "id": "acbc1aed-876f-4ab2-b543-f9b6e0c39d11",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 87,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":87,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:24:10.272161+00:00",
+      "updated_at": "2026-08-23T18:32:21.105+00:00"
+    },
+    {
+      "id": "5ef66829-2660-4f22-81fc-3ebcc3aee6da",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-23T18:32:25.913819+00:00",
+      "updated_at": "2026-08-23T18:32:21.105+00:00"
+    },
+    {
+      "id": "8c6ec2ef-253e-41c7-8f45-ab820b36325e",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "38575c6c-dfa4-4b2b-bcd3-7bf9e1e9763d",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 83,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":83,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T14:34:51.633738+00:00",
+      "updated_at": "2026-08-09T14:34:51.788+00:00"
+    },
+    {
+      "id": "fb25f7f0-6c73-4e8a-82b8-5a34115ef5e0",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "b2ee51ad-3d6e-458c-8a1e-f5b9b79a0d83",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 94.12,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":80,\"out_of\":85,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-09T14:40:09.287789+00:00",
+      "updated_at": "2026-08-09T14:40:18.068+00:00"
+    },
+    {
+      "id": "cb1d0172-7b34-40bb-8812-b994c8121655",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 97.5,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":80,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-09T14:40:58.552253+00:00",
+      "updated_at": "2026-08-09T14:40:59.116+00:00"
+    },
+    {
+      "id": "ffe68c23-dca5-4743-bd0f-42f71a5a67c3",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 56,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":56,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"e29af7db-1259-4242-b9b8-561793bf7dce\"}",
+      "created_at": "2026-08-16T14:31:08.923196+00:00",
+      "updated_at": "2026-08-16T14:35:43.492+00:00"
+    },
+    {
+      "id": "90292acc-890e-46b8-8e2c-10ac3c437f33",
+      "student_id": "3ca77b5d-1842-4700-9c07-b5577f129777",
+      "subject_id": "0f2f61fc-1d31-40fd-a69e-f23ff8edf840",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 69,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":69,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:15:28.24788+00:00",
+      "updated_at": "2026-08-14T21:15:27.237+00:00"
+    },
+    {
+      "id": "996336da-2fa9-45fc-97bb-e55249a4a42c",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:13:57.246108+00:00",
+      "updated_at": "2026-08-11T08:13:56.134+00:00"
+    },
+    {
+      "id": "4c03b631-9d17-497f-87ba-13298eca08a9",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "5d9beb86-1268-40cb-bae6-7f8e4b998ea2",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 75,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":60,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:25:37.605032+00:00",
+      "updated_at": "2026-08-23T18:34:05.507+00:00"
+    },
+    {
+      "id": "db307229-f9a3-4ac3-bf10-59aff4fec7d1",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "5d9beb86-1268-40cb-bae6-7f8e4b998ea2",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 83.33,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":50,\"out_of\":60,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:25:37.605032+00:00",
+      "updated_at": "2026-08-23T18:34:05.508+00:00"
+    },
+    {
+      "id": "2583050f-fc1b-4840-8eec-835a527ff920",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:14:12.113534+00:00",
+      "updated_at": "2026-08-11T08:14:11.375+00:00"
+    },
+    {
+      "id": "e8188bcf-8a9d-40a4-9d21-d86b1c8555dd",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "b65c16d5-a38c-478e-ab46-085170ee31da",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 74.44,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":90,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:14:23.764033+00:00",
+      "updated_at": "2026-08-11T08:14:23.113+00:00"
+    },
+    {
+      "id": "b5aa1979-98be-4853-8fdd-08194f5f41cc",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 67,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:25:12.041285+00:00",
+      "updated_at": "2026-08-23T18:33:06.525+00:00"
+    },
+    {
+      "id": "e960a387-9f86-486a-b5b4-14a8104d3a9c",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 88,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":88,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T05:43:41.941663+00:00",
+      "updated_at": "2026-08-11T05:48:29.604+00:00"
+    },
+    {
+      "id": "505cbe42-f49e-46da-af3c-697e785397ec",
+      "student_id": "257baa18-563c-4ef1-b459-3c725edfe7fe",
+      "subject_id": "02f642c0-75c5-4901-88c4-d7237470ed19",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 92,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":46,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:16:10.577073+00:00",
+      "updated_at": "2026-08-14T21:16:09.778+00:00"
+    },
+    {
+      "id": "f53b7e9d-f1f5-4737-8d34-25b4f46829a3",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 90,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":90,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-23T18:33:16.084652+00:00",
+      "updated_at": "2026-08-23T18:33:06.525+00:00"
+    },
+    {
+      "id": "69a7c14d-c34f-4255-998e-1c17293c58df",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 66,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":66,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:16:48.780217+00:00",
+      "updated_at": "2026-08-12T05:28:33.447+00:00"
+    },
+    {
+      "id": "c7c1da86-77cd-4f51-96fc-edbb21c3b299",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 90,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":90,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T07:50:23.267627+00:00",
+      "updated_at": "2026-08-11T07:50:21.957+00:00"
+    },
+    {
+      "id": "212f20cc-b14a-4001-99b3-27d3802eb701",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 56,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":56,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T07:50:23.267627+00:00",
+      "updated_at": "2026-08-11T07:50:21.957+00:00"
+    },
+    {
+      "id": "fc865b56-9a96-4480-ab36-549124af6145",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 67,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T07:50:23.267627+00:00",
+      "updated_at": "2026-08-11T07:50:21.957+00:00"
+    },
+    {
+      "id": "ea0fd8cc-533a-4a1a-ae02-e2ded72f129c",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "b2ee51ad-3d6e-458c-8a1e-f5b9b79a0d83",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:14:40.980751+00:00",
+      "updated_at": "2026-08-11T08:14:41.479+00:00"
+    },
+    {
+      "id": "9e26f4f9-ce89-414b-913f-d2d838099749",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:14:53.55075+00:00",
+      "updated_at": "2026-08-11T08:14:52.916+00:00"
+    },
+    {
+      "id": "799615d7-6831-43d2-8bd3-df2decf79112",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 100,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":100,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:15:09.496165+00:00",
+      "updated_at": "2026-08-11T08:15:08.879+00:00"
+    },
+    {
+      "id": "1d3547e1-cac1-4dd3-89bd-b901ed02cd53",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "5d9beb86-1268-40cb-bae6-7f8e4b998ea2",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:15:31.607418+00:00",
+      "updated_at": "2026-08-11T08:15:31.062+00:00"
+    },
+    {
+      "id": "abfe5d35-1e81-4a50-8eee-0f8fc8040fd7",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:17:04.36789+00:00",
+      "updated_at": "2026-08-11T08:17:03.745+00:00"
+    },
+    {
+      "id": "cc9580e0-42f4-4368-b9ee-0fc5765319a0",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 80,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":40,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:17:19.889776+00:00",
+      "updated_at": "2026-08-11T08:18:45.515+00:00"
+    },
+    {
+      "id": "14d7daac-fa19-483a-90e0-147b6042c542",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:20:13.230914+00:00",
+      "updated_at": "2026-08-11T08:19:47.004+00:00"
+    },
+    {
+      "id": "da7cd466-1726-40ff-b789-de178b27f48a",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "b65c16d5-a38c-478e-ab46-085170ee31da",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:18:55.578778+00:00",
+      "updated_at": "2026-08-11T08:19:19.228+00:00"
+    },
+    {
+      "id": "8ffd06d6-3f40-4321-a763-8932e3d8ec62",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "b2ee51ad-3d6e-458c-8a1e-f5b9b79a0d83",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 68,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":34,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:20:13.251319+00:00",
+      "updated_at": "2026-08-11T08:21:37.419+00:00"
+    },
+    {
+      "id": "a54a6988-b229-40d6-b000-8118463e3bad",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:20:13.719589+00:00",
+      "updated_at": "2026-08-11T08:19:57.573+00:00"
+    },
+    {
+      "id": "c7c94949-e544-46cb-872c-357ab1f95697",
+      "student_id": "257baa18-563c-4ef1-b459-3c725edfe7fe",
+      "subject_id": "0f85c269-4311-4e7f-948b-eb6966db6ad8",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:15:44.270512+00:00",
+      "updated_at": "2026-08-14T21:15:43.18+00:00"
+    },
+    {
+      "id": "3fe643ad-f92b-4cd4-a630-26a33b3e5037",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 60.71,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":34,\"out_of\":56,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:20:14.214447+00:00",
+      "updated_at": "2026-08-11T08:20:24.823+00:00"
+    },
+    {
+      "id": "248c931b-3b1d-4e98-be65-9450e5b03e70",
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "subject_id": "5d9beb86-1268-40cb-bae6-7f8e4b998ea2",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 80,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":40,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:20:40.179182+00:00",
+      "updated_at": "2026-08-11T08:20:39.629+00:00"
+    },
+    {
+      "id": "88dfa177-71b3-4ff5-880e-ed024e38d4d2",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 99,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":99,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T10:14:55.741655+00:00",
+      "updated_at": "2026-08-11T10:14:54.522+00:00"
+    },
+    {
+      "id": "9d98d79c-0486-4a4a-9d18-0bf69aade53d",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "5d9beb86-1268-40cb-bae6-7f8e4b998ea2",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 93.33,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":56,\"out_of\":60,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-23T18:34:05.748078+00:00",
+      "updated_at": "2026-08-23T18:34:05.507+00:00"
+    },
+    {
+      "id": "3763a5bd-8505-457f-ae69-87822445a73a",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 68.33,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":41,\"out_of\":60,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-12T04:57:20.613981+00:00",
+      "updated_at": "2026-08-12T04:57:19.171+00:00"
+    },
+    {
+      "id": "f8d3227c-c7e3-4a94-9bde-fd34f059d302",
+      "student_id": "257baa18-563c-4ef1-b459-3c725edfe7fe",
+      "subject_id": "13190d4a-380f-4fe0-b6a0-05e54c4a0b41",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 96.43,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":54,\"out_of\":56,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:16:25.170429+00:00",
+      "updated_at": "2026-08-14T21:16:24.396+00:00"
+    },
+    {
+      "id": "91535dd3-3229-40fd-8390-1d4de368125f",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 46,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":23,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T17:54:58.167871+00:00",
+      "updated_at": "2026-08-15T17:54:56.278+00:00"
+    },
+    {
+      "id": "23a6589e-3217-49c0-ac80-713bca23a70f",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 75.56,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":34,\"out_of\":45,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T17:58:25.03085+00:00",
+      "updated_at": "2026-08-15T17:58:24.551+00:00"
+    },
+    {
+      "id": "32aac657-92ed-409b-b44c-fc45a308efd2",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 99,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":99,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-11T08:13:42.906241+00:00",
+      "updated_at": "2026-08-13T21:07:30.146+00:00"
+    },
+    {
+      "id": "adaa6efa-92df-4067-bb48-4292990f3c14",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-13T21:56:55.71377+00:00",
+      "updated_at": "2026-08-13T21:56:58.938+00:00"
+    },
+    {
+      "id": "8a920099-551d-4de0-864a-c91e21fdc7a4",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T07:49:43.847794+00:00",
+      "updated_at": "2026-08-14T07:56:59.451+00:00"
+    },
+    {
+      "id": "0e4dd2e2-1b1f-476f-b50e-3b03dcd422e6",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 79,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":79,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T07:49:43.847794+00:00",
+      "updated_at": "2026-08-14T07:56:59.451+00:00"
+    },
+    {
+      "id": "a73bea40-df36-4ec7-8c35-07310caec0aa",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 99,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":99,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T07:49:43.847794+00:00",
+      "updated_at": "2026-08-14T07:56:59.451+00:00"
+    },
+    {
+      "id": "823a15f6-f696-414a-8cc1-de2c796d4520",
+      "student_id": "3ca77b5d-1842-4700-9c07-b5577f129777",
+      "subject_id": "0f85c269-4311-4e7f-948b-eb6966db6ad8",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 67,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:14:26.097553+00:00",
+      "updated_at": "2026-08-14T21:14:25.228+00:00"
+    },
+    {
+      "id": "3e750519-7e18-44ad-a549-10af40b9a22c",
+      "student_id": "3ca77b5d-1842-4700-9c07-b5577f129777",
+      "subject_id": "02f642c0-75c5-4901-88c4-d7237470ed19",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 45,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:15:02.667145+00:00",
+      "updated_at": "2026-08-14T21:15:01.991+00:00"
+    },
+    {
+      "id": "c7ada4f0-be64-4673-b98d-04ec0681b57d",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "38575c6c-dfa4-4b2b-bcd3-7bf9e1e9763d",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T17:55:17.485687+00:00",
+      "updated_at": "2026-08-15T17:55:14.647+00:00"
+    },
+    {
+      "id": "7a35e4d5-4ac2-487d-a58c-5079dbd729bc",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 40,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":40,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T17:58:46.117471+00:00",
+      "updated_at": "2026-08-15T17:58:48.507+00:00"
+    },
+    {
+      "id": "bf8fa213-616c-4bbe-8aab-d6a58a5e8964",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 65,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":65,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:24:10.272161+00:00",
+      "updated_at": "2026-08-23T18:32:21.105+00:00"
+    },
+    {
+      "id": "d4f3fa10-d699-4dff-a67a-f46c8af9ebab",
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T07:30:28.345964+00:00",
+      "updated_at": "2026-08-14T07:30:44.787+00:00"
+    },
+    {
+      "id": "ca6b9915-db32-432b-90cb-f8880617868d",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "b2ee51ad-3d6e-458c-8a1e-f5b9b79a0d83",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 43,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":43,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:22:21.621635+00:00",
+      "updated_at": "2026-08-23T18:31:25.076+00:00"
+    },
+    {
+      "id": "26991fbd-5b26-4688-9b5e-69abe69d16e7",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "b2ee51ad-3d6e-458c-8a1e-f5b9b79a0d83",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 45,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:22:21.621635+00:00",
+      "updated_at": "2026-08-23T18:31:25.077+00:00"
+    },
+    {
+      "id": "0fcf8b77-9e02-4a20-995e-923e3ef2ca66",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 45,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:25:12.041285+00:00",
+      "updated_at": "2026-08-23T18:33:06.525+00:00"
+    },
+    {
+      "id": "35b8b307-da16-427d-a841-da6b9f0fca81",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 99,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":99,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"e29af7db-1259-4242-b9b8-561793bf7dce\"}",
+      "created_at": "2026-08-14T07:16:28.405999+00:00",
+      "updated_at": "2026-08-16T09:23:32.38+00:00"
+    },
+    {
+      "id": "165b5938-c301-49f2-b228-837000bfd61f",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"e29af7db-1259-4242-b9b8-561793bf7dce\"}",
+      "created_at": "2026-08-14T07:16:28.405999+00:00",
+      "updated_at": "2026-08-16T09:23:32.381+00:00"
+    },
+    {
+      "id": "42f26232-e042-4b77-8443-eae781ff267f",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 45,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"e29af7db-1259-4242-b9b8-561793bf7dce\"}",
+      "created_at": "2026-08-14T07:16:28.405999+00:00",
+      "updated_at": "2026-08-16T09:23:32.381+00:00"
+    },
+    {
+      "id": "457a214d-c5c2-47cd-af28-85d68d49cd07",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 87,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":87,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T07:47:33.64949+00:00",
+      "updated_at": "2026-08-19T19:55:15.575+00:00"
+    },
+    {
+      "id": "530b4933-8661-4e9a-9ecb-05157f64406e",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 90,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":90,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T17:59:11.413307+00:00",
+      "updated_at": "2026-08-19T19:55:15.576+00:00"
+    },
+    {
+      "id": "1c106191-d891-4107-b075-60284cf98da0",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 57,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":57,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T07:47:33.64949+00:00",
+      "updated_at": "2026-08-19T19:55:15.576+00:00"
+    },
+    {
+      "id": "aaa85278-aa02-4a9a-b2f5-fbf45b57200e",
+      "student_id": "3ca77b5d-1842-4700-9c07-b5577f129777",
+      "subject_id": "c38b548b-270c-4bc1-a5db-946801a1c8ae",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 69,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":69,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-14T21:14:42.811463+00:00",
+      "updated_at": "2026-08-14T21:14:45.785+00:00"
+    },
+    {
+      "id": "b1d16de2-844e-49ee-939a-a43dc462a86b",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 45,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:14:41.934286+00:00",
+      "updated_at": "2026-08-22T07:14:40.853+00:00"
+    },
+    {
+      "id": "6235c793-ad04-4d37-830e-f84be8c612b1",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "b65c16d5-a38c-478e-ab46-085170ee31da",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 34,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":34,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:15:38.667696+00:00",
+      "updated_at": "2026-08-22T07:15:37.779+00:00"
+    },
+    {
+      "id": "f65cfe1d-4951-4959-ace2-debb53322636",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "b2ee51ad-3d6e-458c-8a1e-f5b9b79a0d83",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 64,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":32,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:15:54.138875+00:00",
+      "updated_at": "2026-08-22T07:15:53.462+00:00"
+    },
+    {
+      "id": "d4ebf592-9428-45f8-b234-f036ec1ea32c",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 55.74,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":34,\"out_of\":61,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:16:09.510952+00:00",
+      "updated_at": "2026-08-22T07:16:08.993+00:00"
+    },
+    {
+      "id": "3deb326c-d3ab-4fe1-b45d-723090a9d064",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "e784b5fc-dab9-4105-bb49-fce1d1a84cf7",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:16:35.51721+00:00",
+      "updated_at": "2026-08-22T07:16:34.843+00:00"
+    },
+    {
+      "id": "bef0c4c9-9793-4352-bfd5-c13f4c95d77b",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 46,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":23,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:16:52.253378+00:00",
+      "updated_at": "2026-08-22T07:16:50.856+00:00"
+    },
+    {
+      "id": "62e86e5e-e6a9-4536-a8ac-31749d280c9b",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "494e923e-cc4f-459c-b36d-4b19b7994561",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 66,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":66,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T17:57:50.394749+00:00",
+      "updated_at": "2026-08-15T17:57:45.18+00:00"
+    },
+    {
+      "id": "b28e75d8-8c01-4094-acf3-b0deb7a32a6d",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "db23f364-e068-4e3f-854c-a91c8461efb5",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 57,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":57,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:42:21.684231+00:00",
+      "updated_at": "2026-08-15T16:42:20.361+00:00"
+    },
+    {
+      "id": "76aaf864-3daf-4190-8289-6cfbd57f4f7d",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "33e8c6c6-afda-4f1b-adeb-b02d54701d6b",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 57,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":57,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:43:06.04814+00:00",
+      "updated_at": "2026-08-15T16:43:05.4+00:00"
+    },
+    {
+      "id": "fdf87952-5dc3-4f0d-91f0-88e956ef6cfb",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "adca967d-5cca-4752-8c76-b4d7c53a31b2",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 80,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":40,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:43:23.393806+00:00",
+      "updated_at": "2026-08-15T16:43:22.723+00:00"
+    },
+    {
+      "id": "054dbda4-913b-4e9d-b4a3-af6f46db346b",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "857f2240-6038-4a4a-be18-4d91960381b5",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 56,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":56,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:43:38.758639+00:00",
+      "updated_at": "2026-08-15T16:43:37.886+00:00"
+    },
+    {
+      "id": "aa941d95-9ec3-49f8-bf47-0431c4700f50",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "d0819cd6-895f-423c-8084-9b609bc2297e",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 85,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":34,\"out_of\":40,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:43:49.812901+00:00",
+      "updated_at": "2026-08-15T16:43:49.307+00:00"
+    },
+    {
+      "id": "fceb234e-b1fe-47f7-aa32-7dd1e3d843e8",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "b60baa33-4327-476b-9c4f-388b56fbb880",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:44:00.679334+00:00",
+      "updated_at": "2026-08-15T16:44:00.065+00:00"
+    },
+    {
+      "id": "777dea28-241e-4e68-a836-d05c0fbd0cb6",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "1621d90a-8ce3-4cbb-828d-2567ae5a1555",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 57,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":57,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:44:12.679279+00:00",
+      "updated_at": "2026-08-15T16:44:12.095+00:00"
+    },
+    {
+      "id": "4c8c9951-3b0e-436b-aa45-782252bfd389",
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "subject_id": "1cbdd8c4-02b7-425a-8f8d-22dbbc0078a9",
+      "exam_id": "1bd0c104-f67c-450c-989c-fb95478059e2",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-15T16:44:35.995396+00:00",
+      "updated_at": "2026-08-15T16:44:35.258+00:00"
+    },
+    {
+      "id": "8e6b136c-5bf7-4c31-bde2-6a43b54f5527",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "fe17661a-9c3b-439e-9cb9-fd2f88279f56",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 98,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":98,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-11T08:15:22.32387+00:00",
+      "updated_at": "2026-08-17T06:06:41.749+00:00"
+    },
+    {
+      "id": "f9919853-9661-488c-bd57-14edfc8e007d",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "823eba35-ac51-4ac8-be57-fcbeee88151c",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 89,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":89,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:14:21.377627+00:00",
+      "updated_at": "2026-08-22T07:14:12.818+00:00"
+    },
+    {
+      "id": "de1e3cd9-be7c-4716-94c9-248d7c98b3b4",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 68,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":34,\"out_of\":50,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:15:14.239812+00:00",
+      "updated_at": "2026-08-22T07:15:06.127+00:00"
+    },
+    {
+      "id": "76b5d9aa-28ba-4694-a765-022dbba125f2",
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "subject_id": "5d9beb86-1268-40cb-bae6-7f8e4b998ea2",
+      "exam_id": "6e4cf051-5d37-457b-9637-344e00b785e8",
+      "marks": 90,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":90,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"049af165-7abf-42eb-81bd-35dc56a94fcd\"}",
+      "created_at": "2026-08-22T07:19:15.84224+00:00",
+      "updated_at": "2026-08-22T07:19:15.143+00:00"
+    },
+    {
+      "id": "1f3ce982-15b6-43e0-bb50-0b72dcd396e1",
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "subject_id": "f00b5334-fa16-4640-b19c-733ec4530318",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 67,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-15T17:54:46.01443+00:00",
+      "updated_at": "2026-08-22T16:08:16.707+00:00"
+    },
+    {
+      "id": "e9dfa77e-6bb2-4ac4-a9e7-69539a8a2676",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "b65c16d5-a38c-478e-ab46-085170ee31da",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 98,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":98,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:21:59.579431+00:00",
+      "updated_at": "2026-08-23T18:31:09.581+00:00"
+    },
+    {
+      "id": "70520142-774f-4f53-9b3b-523f248b7850",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "b65c16d5-a38c-478e-ab46-085170ee31da",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 56,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":56,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-23T18:31:13.556525+00:00",
+      "updated_at": "2026-08-23T18:31:09.581+00:00"
+    },
+    {
+      "id": "adf77924-ffd1-4971-91c3-fac66b9e72c0",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "b65c16d5-a38c-478e-ab46-085170ee31da",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 95,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":95,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-09T19:21:59.579431+00:00",
+      "updated_at": "2026-08-23T18:31:09.581+00:00"
+    },
+    {
+      "id": "b58be7a8-b9e7-4c02-bd75-fc36cf05c8b4",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "b2ee51ad-3d6e-458c-8a1e-f5b9b79a0d83",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 78,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":78,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-23T18:31:25.282638+00:00",
+      "updated_at": "2026-08-23T18:31:25.076+00:00"
+    },
+    {
+      "id": "6d16785e-0abd-47f5-a42d-807e9e15ca55",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "dff8e7fc-bb0d-41c5-b451-e6b6f3361409",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 67,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":67,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"ac4bd532-012b-473b-adfc-377578fa1a61\"}",
+      "created_at": "2026-08-23T18:31:49.319491+00:00",
+      "updated_at": "2026-08-23T18:32:12.48+00:00"
+    },
+    {
+      "id": "87668870-c2f6-44e0-a210-98c94dabcc99",
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 56,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":56,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"e29af7db-1259-4242-b9b8-561793bf7dce\"}",
+      "created_at": "2026-08-11T05:47:33.725611+00:00",
+      "updated_at": "2026-08-23T17:46:52.839+00:00"
+    },
+    {
+      "id": "c763966c-7e32-4ec9-b858-9d7bb3e4953c",
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 45,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":45,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"e29af7db-1259-4242-b9b8-561793bf7dce\"}",
+      "created_at": "2026-08-11T05:47:33.725611+00:00",
+      "updated_at": "2026-08-23T17:46:52.839+00:00"
+    },
+    {
+      "id": "7792447f-000b-42e1-9db5-34d00fd93723",
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "subject_id": "4441b054-2d20-4d5c-852d-f31d16fbc145",
+      "exam_id": "39c0b1d9-0d45-4316-a5b2-0ba45d8dae60",
+      "marks": 86,
+      "entered_by_teacher_id": null,
+      "remarks": "{\"raw_score\":86,\"out_of\":100,\"special_status\":\"Normal\",\"irregularity_reason\":null,\"entered_by_teacher_id\":\"e29af7db-1259-4242-b9b8-561793bf7dce\"}",
+      "created_at": "2026-08-11T05:47:33.725611+00:00",
+      "updated_at": "2026-08-23T17:46:52.839+00:00"
+    }
+  ],
+  "public_users": [
+    {
+      "id": "4ccffcdf-f2ba-4007-a86e-28095de6957e",
+      "name": "Tracer Combs",
+      "email": "211@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "3ca77b5d-1842-4700-9c07-b5577f129777",
+      "created_at": "2026-08-18T10:59:02.726389+00:00",
+      "updated_at": "2026-08-18T10:59:02.726389+00:00"
+    },
+    {
+      "id": "86ff94a5-7bdc-4eb9-8f31-2ff3e7ea2608",
+      "name": "Beak Walker",
+      "email": "478@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "257baa18-563c-4ef1-b459-3c725edfe7fe",
+      "created_at": "2026-08-18T10:59:02.889305+00:00",
+      "updated_at": "2026-08-18T10:59:02.889305+00:00"
+    },
+    {
+      "id": "b9b45576-92f7-45f2-b6cf-e745f67846dd",
+      "name": "Jon Kopps",
+      "email": "45@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "b124ab79-ab87-4ebe-a04b-fb1b03f463a5",
+      "created_at": "2026-08-18T10:59:03.055376+00:00",
+      "updated_at": "2026-08-18T10:59:03.055376+00:00"
+    },
+    {
+      "id": "ad098f97-c3c4-4ec3-81e0-4ca4c6b4d77d",
+      "name": "Kate Sheila",
+      "email": "200@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f",
+      "created_at": "2026-08-18T10:59:03.375577+00:00",
+      "updated_at": "2026-08-18T10:59:03.375577+00:00"
+    },
+    {
+      "id": "88a85349-08d6-411d-a31a-39e5027ac8a5",
+      "name": "Becker Johnson",
+      "email": "100@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac",
+      "created_at": "2026-08-18T10:59:03.53734+00:00",
+      "updated_at": "2026-08-18T10:59:03.53734+00:00"
+    },
+    {
+      "id": "28005633-103e-45b5-a6f1-59d2d36cfa86",
+      "name": "Quinn Taylor",
+      "email": "300@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183",
+      "created_at": "2026-08-18T10:59:03.70442+00:00",
+      "updated_at": "2026-08-18T10:59:03.70442+00:00"
+    },
+    {
+      "id": "34581179-dc0a-4b22-89bd-33ea7bdec61a",
+      "name": "Marcus Jordan",
+      "email": "230@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011",
+      "created_at": "2026-08-18T10:59:03.864274+00:00",
+      "updated_at": "2026-08-18T10:59:03.864274+00:00"
+    },
+    {
+      "id": "68ec235c-a35b-412e-9cda-70f71d8f3afd",
+      "name": "Kevin Mose",
+      "email": "234@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "25892c85-5343-4307-b042-91b5f5c982a1",
+      "created_at": "2026-08-18T10:59:04.045903+00:00",
+      "updated_at": "2026-08-18T10:59:04.045903+00:00"
+    },
+    {
+      "id": "d6ebda18-cabf-48cb-b710-01a20f1e8330",
+      "name": "Mwangi Kamau",
+      "email": "456@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "09c0aedd-3a7e-4e37-8c21-ce2016a9c6a1",
+      "created_at": "2026-08-18T10:59:04.211891+00:00",
+      "updated_at": "2026-08-18T10:59:04.211891+00:00"
+    },
+    {
+      "id": "938d9f69-a2fb-4b43-973b-3cd2cab3c759",
+      "name": "Astecy Kwamboka",
+      "email": "224@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375",
+      "created_at": "2026-08-18T10:59:04.380399+00:00",
+      "updated_at": "2026-08-18T10:59:04.380399+00:00"
+    },
+    {
+      "id": "3602dbb0-e062-4a66-a9c6-9273392ff0d1",
+      "name": "Britney Spears",
+      "email": "78@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df",
+      "created_at": "2026-08-18T10:59:04.538322+00:00",
+      "updated_at": "2026-08-18T10:59:04.538322+00:00"
+    },
+    {
+      "id": "41b56d35-2068-4446-ac72-91d4ab87c7fd",
+      "name": "Brian Ayiecha",
+      "email": "adm-2024-001@learner.cbe.ac.ke",
+      "role": "learner",
+      "teacher_id": null,
+      "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568",
+      "created_at": "2026-08-17T20:18:39.912494+00:00",
+      "updated_at": "2026-08-17T20:18:39.912494+00:00"
+    }
+  ],
+  "auth_users": [
+    {
+      "id": "3602dbb0-e062-4a66-a9c6-9273392ff0d1",
+      "email": "78@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "78",
+        "email_verified": true,
+        "name": "Britney Spears",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "63d24833-83b5-468b-939a-15e4af7ba7df"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:04.5036Z"
+    },
+    {
+      "id": "938d9f69-a2fb-4b43-973b-3cd2cab3c759",
+      "email": "224@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "224",
+        "email_verified": true,
+        "name": "Astecy Kwamboka",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "eefbdb35-f475-4ae7-93d6-bf105fc95375"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:04.335904Z"
+    },
+    {
+      "id": "d6ebda18-cabf-48cb-b710-01a20f1e8330",
+      "email": "456@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "456",
+        "email_verified": true,
+        "name": "Mwangi Kamau",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "09c0aedd-3a7e-4e37-8c21-ce2016a9c6a1"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:04.171132Z"
+    },
+    {
+      "id": "68ec235c-a35b-412e-9cda-70f71d8f3afd",
+      "email": "234@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "234",
+        "email_verified": true,
+        "name": "Kevin Mose",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "25892c85-5343-4307-b042-91b5f5c982a1"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:03.988152Z"
+    },
+    {
+      "id": "34581179-dc0a-4b22-89bd-33ea7bdec61a",
+      "email": "230@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "230",
+        "email_verified": true,
+        "name": "Marcus Jordan",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "e534459c-787f-4c3a-b48c-9cb09e34b011"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:03.824689Z"
+    },
+    {
+      "id": "28005633-103e-45b5-a6f1-59d2d36cfa86",
+      "email": "300@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "300",
+        "email_verified": true,
+        "name": "Quinn Taylor",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "315ab0f1-96ac-4b89-adaa-6030be2be183"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:03.666512Z"
+    },
+    {
+      "id": "88a85349-08d6-411d-a31a-39e5027ac8a5",
+      "email": "100@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "100",
+        "email_verified": true,
+        "name": "Becker Johnson",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "2e9424c3-5e7f-4564-acdf-56ae95e934ac"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:03.500716Z"
+    },
+    {
+      "id": "ad098f97-c3c4-4ec3-81e0-4ca4c6b4d77d",
+      "email": "200@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "200",
+        "email_verified": true,
+        "name": "Kate Sheila",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "f7678631-f5e8-457c-b529-6884fb9bf43f"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:03.340718Z"
+    },
+    {
+      "id": "b9b45576-92f7-45f2-b6cf-e745f67846dd",
+      "email": "45@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "45",
+        "email_verified": true,
+        "name": "Jon Kopps",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "b124ab79-ab87-4ebe-a04b-fb1b03f463a5"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:03.015011Z"
+    },
+    {
+      "id": "86ff94a5-7bdc-4eb9-8f31-2ff3e7ea2608",
+      "email": "478@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "478",
+        "email_verified": true,
+        "name": "Beak Walker",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "257baa18-563c-4ef1-b459-3c725edfe7fe"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:02.852463Z"
+    },
+    {
+      "id": "4ccffcdf-f2ba-4007-a86e-28095de6957e",
+      "email": "211@learner.cbe.ac.ke",
+      "user_metadata": {
+        "active": true,
+        "admission_number": "211",
+        "email_verified": true,
+        "name": "Tracer Combs",
+        "role": "learner",
+        "status": "Active",
+        "student_id": "3ca77b5d-1842-4700-9c07-b5577f129777"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-18T10:59:02.68435Z"
+    },
+    {
+      "id": "41b56d35-2068-4446-ac72-91d4ab87c7fd",
+      "email": "adm-2024-001@learner.cbe.ac.ke",
+      "user_metadata": {
+        "admission_number": "ADM-2024-001",
+        "email_verified": true,
+        "name": "Brian Ayiecha",
+        "role": "learner",
+        "student_id": "1a1b992c-cf7f-4f69-9be6-4aedd19db568"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      },
+      "created_at": "2026-08-17T17:27:41.690791Z"
+    }
+  ]
+}

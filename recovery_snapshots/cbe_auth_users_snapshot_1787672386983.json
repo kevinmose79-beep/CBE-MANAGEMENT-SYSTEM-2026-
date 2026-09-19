@@ -1,0 +1,122 @@
+{
+  "snapshot_timestamp": 1787672386983,
+  "action": "SURGICAL_AUTH_USERS_REMOVAL",
+  "primary_admin_preserved": {
+    "email": "brianayiecha52@gmail.com",
+    "id": "049af165-7abf-42eb-81bd-35dc56a94fcd"
+  },
+  "deleted_identities": [
+    {
+      "email": "admin@cbe.ac.ke",
+      "id": "0be36e3b-faae-414e-a17a-b4e34e0dca99",
+      "created_at": "2026-08-19T12:52:41.560947Z",
+      "last_sign_in_at": "2026-08-19T12:52:57.870333Z",
+      "user_metadata": {
+        "email_verified": true
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      }
+    },
+    {
+      "email": "trixiemode@school.ac.ke",
+      "id": "06046800-45a4-46b6-a14f-7796251d61f1",
+      "created_at": "2026-08-16T18:19:20.753679Z",
+      "last_sign_in_at": "2026-08-20T15:45:06.820002Z",
+      "user_metadata": {
+        "email_verified": true,
+        "force_password_change": true,
+        "name": "Trixie Mode",
+        "phone": "",
+        "role": "class_teacher",
+        "status": "Active",
+        "tsc_number": "234456",
+        "username": "trixie"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      }
+    },
+    {
+      "email": "kevinmose79@gmail.com",
+      "id": "994758a7-ece0-4d7d-a893-a9427dc7639a",
+      "created_at": "2026-08-14T05:42:31.497203Z",
+      "last_sign_in_at": "2026-08-23T17:26:43.567683Z",
+      "user_metadata": {
+        "email_verified": true,
+        "force_password_change": true,
+        "name": "Stacy Jordan",
+        "phone": "",
+        "role": "subject_teacher",
+        "status": "Active",
+        "username": "stacy"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      }
+    },
+    {
+      "email": "emmanuelmomanyi34@gmail.com",
+      "id": "3ff15c48-4096-453f-83df-f352c8ffaf87",
+      "created_at": "2026-08-07T16:25:35.641069Z",
+      "last_sign_in_at": "2026-08-23T18:42:25.348349Z",
+      "user_metadata": {
+        "email_verified": true,
+        "force_password_change": true,
+        "name": "BRIAN AYIECHA",
+        "role": "class_teacher",
+        "status": "Active"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      }
+    },
+    {
+      "email": "moraasusan02@gmail.com",
+      "id": "93c2de05-8948-40b7-af23-970327bd77a4",
+      "created_at": "2026-08-04T17:20:52.104371Z",
+      "last_sign_in_at": "2026-08-05T18:26:22.661178Z",
+      "user_metadata": {
+        "email_verified": true,
+        "force_password_change": true,
+        "name": "Kevin",
+        "phone": "+254 700 000 000",
+        "role": "subject_teacher",
+        "status": "Active",
+        "username": "kevo"
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      }
+    },
+    {
+      "email": "dariusholloway667@gmail.com",
+      "id": "8bdb894e-da5b-497b-8914-01ada19dc8e5",
+      "created_at": "2026-08-04T07:47:09.214393Z",
+      "user_metadata": {
+        "email_verified": true
+      },
+      "app_metadata": {
+        "provider": "email",
+        "providers": [
+          "email"
+        ]
+      }
+    }
+  ]
+}

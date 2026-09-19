@@ -1,0 +1,8 @@
+{
+  "name": "CBE Management System",
+  "description": "School Management and CBE Examination Analysis System for managing learners, teachers, classes, exams, marks entry, automatic grading, ranking, and report generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

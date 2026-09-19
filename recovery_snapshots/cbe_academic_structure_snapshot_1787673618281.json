@@ -1,0 +1,338 @@
+{
+  "timestamp": 1787673618281,
+  "action": "ACADEMIC_STRUCTURE_MIGRATION_PP1_TO_GRADE9",
+  "classes": [
+    {
+      "id": "2158c4ae-d22a-44f5-9220-fc6ac34de127",
+      "class_name": "Grade 2",
+      "grade_level": 2,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:15.221324+00:00",
+      "updated_at": "2026-08-01T12:28:15.221324+00:00"
+    },
+    {
+      "id": "f007fdc5-d12d-49ed-a5ac-e6bb008076ac",
+      "class_name": "Grade 5",
+      "grade_level": 5,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:15.221324+00:00",
+      "updated_at": "2026-08-01T12:28:15.221324+00:00"
+    },
+    {
+      "id": "9ffe3a1d-f4fa-4f60-9800-a84fe9a55963",
+      "class_name": "PP1",
+      "grade_level": 0,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:35.575434+00:00",
+      "updated_at": "2026-08-01T12:28:35.575434+00:00"
+    },
+    {
+      "id": "434bf523-ea02-4c36-bc4f-2f1d4edd9476",
+      "class_name": "PP2",
+      "grade_level": 0,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:35.575434+00:00",
+      "updated_at": "2026-08-01T12:28:35.575434+00:00"
+    },
+    {
+      "id": "945f069f-a15a-43bc-a5de-d10f9c22c484",
+      "class_name": "Grade 1",
+      "grade_level": 1,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:35.575434+00:00",
+      "updated_at": "2026-08-01T12:28:35.575434+00:00"
+    },
+    {
+      "id": "1996f9e6-215c-48e3-a09d-7d8b61b9270d",
+      "class_name": "Grade 3",
+      "grade_level": 3,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:35.575434+00:00",
+      "updated_at": "2026-08-01T12:28:35.575434+00:00"
+    },
+    {
+      "id": "541d142d-d280-41f9-a383-4a8c31451657",
+      "class_name": "Grade 4",
+      "grade_level": 4,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:35.575434+00:00",
+      "updated_at": "2026-08-01T12:28:35.575434+00:00"
+    },
+    {
+      "id": "6ed8a9ed-d33b-4976-9076-fd175d22f60e",
+      "class_name": "Grade 6",
+      "grade_level": 6,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:28:35.575434+00:00",
+      "updated_at": "2026-08-01T12:28:35.575434+00:00"
+    },
+    {
+      "id": "c79816ee-1324-4abb-b5ad-d974f232b2ad",
+      "class_name": "Grade 8",
+      "grade_level": 8,
+      "capacity": 40,
+      "created_at": "2026-08-07T16:48:24.26574+00:00",
+      "updated_at": "2026-08-07T16:48:24.26574+00:00"
+    },
+    {
+      "id": "0e49e9b0-0a82-4f4b-9109-685b0103a54c",
+      "class_name": "Grade 9",
+      "grade_level": 10,
+      "capacity": 50,
+      "created_at": "2026-08-10T10:39:36.892281+00:00",
+      "updated_at": "2026-08-10T10:39:36.892281+00:00"
+    },
+    {
+      "id": "02942f0a-79ff-42a6-bfc3-f6f98268e4ac",
+      "class_name": "cls_8a",
+      "grade_level": 9,
+      "capacity": 40,
+      "created_at": "2026-08-12T10:11:23.507602+00:00",
+      "updated_at": "2026-08-12T10:11:23.507602+00:00"
+    },
+    {
+      "id": "b05f2767-ed87-44b2-854d-9b5ac54756d9",
+      "class_name": "Grade 7",
+      "grade_level": 8,
+      "capacity": 52,
+      "created_at": "2026-08-12T19:22:27.349855+00:00",
+      "updated_at": "2026-08-12T19:22:27.349855+00:00"
+    }
+  ],
+  "streams": [
+    {
+      "id": "687d885e-5521-42f2-a044-8f078a1ef049",
+      "class_id": "f007fdc5-d12d-49ed-a5ac-e6bb008076ac",
+      "stream_name": "B",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "5611b774-8d2d-45f2-b4fe-d4086fca407e",
+      "class_id": "1996f9e6-215c-48e3-a09d-7d8b61b9270d",
+      "stream_name": "A",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "0a6a96ab-06c8-41c1-a1b4-3bc15c62b4dc",
+      "class_id": "945f069f-a15a-43bc-a5de-d10f9c22c484",
+      "stream_name": "A",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "5b5b33ca-2684-4efa-8bef-7f7c4a2acc29",
+      "class_id": "541d142d-d280-41f9-a383-4a8c31451657",
+      "stream_name": "A",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "c23e2068-8499-49b7-a78b-3b8264f2b9a8",
+      "class_id": "2158c4ae-d22a-44f5-9220-fc6ac34de127",
+      "stream_name": "A",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "69579521-a0d7-4968-a6fd-83f1119fbfe9",
+      "class_id": "1996f9e6-215c-48e3-a09d-7d8b61b9270d",
+      "stream_name": "B",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "d9d05d43-81ae-4e52-b1aa-c2f12955575d",
+      "class_id": "f007fdc5-d12d-49ed-a5ac-e6bb008076ac",
+      "stream_name": "A",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "4cabb361-9a96-424d-a9b0-46d1bbc0f348",
+      "class_id": "2158c4ae-d22a-44f5-9220-fc6ac34de127",
+      "stream_name": "B",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "2af2e71e-3a8b-4496-8a5c-a64cc36dd6e9",
+      "class_id": "541d142d-d280-41f9-a383-4a8c31451657",
+      "stream_name": "B",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "5a35d454-da0e-4177-8343-5bcecee4a541",
+      "class_id": "945f069f-a15a-43bc-a5de-d10f9c22c484",
+      "stream_name": "B",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:39:49.30929+00:00",
+      "updated_at": "2026-08-01T12:39:49.30929+00:00"
+    },
+    {
+      "id": "9317c365-d19d-4f90-89f9-74970e07bf58",
+      "class_id": "9ffe3a1d-f4fa-4f60-9800-a84fe9a55963",
+      "stream_name": "A",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:42:39.735465+00:00",
+      "updated_at": "2026-08-01T12:42:39.735465+00:00"
+    },
+    {
+      "id": "d831b9b3-6f65-4a62-ab67-d173f76d5632",
+      "class_id": "434bf523-ea02-4c36-bc4f-2f1d4edd9476",
+      "stream_name": "C",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-01T12:42:39.735465+00:00",
+      "updated_at": "2026-08-01T12:42:39.735465+00:00"
+    },
+    {
+      "id": "8a9c07bb-1bbf-4d99-85be-3468a6457305",
+      "class_id": "c79816ee-1324-4abb-b5ad-d974f232b2ad",
+      "stream_name": "East",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-07T16:48:24.361096+00:00",
+      "updated_at": "2026-08-07T16:48:24.361096+00:00"
+    },
+    {
+      "id": "8eb5e4a0-2c5a-46be-bcff-b109216e9cd8",
+      "class_id": "c79816ee-1324-4abb-b5ad-d974f232b2ad",
+      "stream_name": "West",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-07T16:48:24.468417+00:00",
+      "updated_at": "2026-08-07T16:48:24.468417+00:00"
+    },
+    {
+      "id": "1bb5482d-5364-43e8-a80a-5b1ae1c923f6",
+      "class_id": "1996f9e6-215c-48e3-a09d-7d8b61b9270d",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 35,
+      "created_at": "2026-08-07T17:08:38.047993+00:00",
+      "updated_at": "2026-08-07T17:08:38.047993+00:00"
+    },
+    {
+      "id": "843e8bb0-8120-49fa-ac1b-604fd061ade7",
+      "class_id": "f007fdc5-d12d-49ed-a5ac-e6bb008076ac",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-07T17:08:38.071425+00:00",
+      "updated_at": "2026-08-07T17:08:38.071425+00:00"
+    },
+    {
+      "id": "723b75dc-5365-4e51-93bc-e7e30b084067",
+      "class_id": "945f069f-a15a-43bc-a5de-d10f9c22c484",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 35,
+      "created_at": "2026-08-07T17:08:38.092542+00:00",
+      "updated_at": "2026-08-07T17:08:38.092542+00:00"
+    },
+    {
+      "id": "2dd1dbf6-228b-4bbf-96a0-d0552a329cc3",
+      "class_id": "f007fdc5-d12d-49ed-a5ac-e6bb008076ac",
+      "stream_name": "Red",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-07T17:08:38.098329+00:00",
+      "updated_at": "2026-08-07T17:08:38.098329+00:00"
+    },
+    {
+      "id": "92d3fa3a-9902-4d3f-9f5b-ae23e0feccac",
+      "class_id": "2158c4ae-d22a-44f5-9220-fc6ac34de127",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 35,
+      "created_at": "2026-08-07T17:08:38.117528+00:00",
+      "updated_at": "2026-08-07T17:08:38.117528+00:00"
+    },
+    {
+      "id": "3f7a7ea2-08fa-4493-b774-cceafa8a700a",
+      "class_id": "9ffe3a1d-f4fa-4f60-9800-a84fe9a55963",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 30,
+      "created_at": "2026-08-07T17:08:38.117636+00:00",
+      "updated_at": "2026-08-07T17:08:38.117636+00:00"
+    },
+    {
+      "id": "c881b6c9-8be0-4a8e-b089-778671c5f1bf",
+      "class_id": "541d142d-d280-41f9-a383-4a8c31451657",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-07T17:08:38.127393+00:00",
+      "updated_at": "2026-08-07T17:08:38.127393+00:00"
+    },
+    {
+      "id": "c061fdba-fa77-46d2-a63c-d6d8ec2e99c6",
+      "class_id": "6ed8a9ed-d33b-4976-9076-fd175d22f60e",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 40,
+      "created_at": "2026-08-07T17:08:38.141973+00:00",
+      "updated_at": "2026-08-07T17:08:38.141973+00:00"
+    },
+    {
+      "id": "95e8ff02-6d67-433f-a417-2d74e2012793",
+      "class_id": "0e49e9b0-0a82-4f4b-9109-685b0103a54c",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 50,
+      "created_at": "2026-08-10T10:39:37.82991+00:00",
+      "updated_at": "2026-08-10T10:39:37.82991+00:00"
+    },
+    {
+      "id": "3d0ecb00-3e0f-425a-8d69-59f6c9f18b40",
+      "class_id": "0e49e9b0-0a82-4f4b-9109-685b0103a54c",
+      "stream_name": "Red",
+      "class_teacher_id": null,
+      "capacity": 60,
+      "created_at": "2026-08-11T08:11:07.639853+00:00",
+      "updated_at": "2026-08-11T08:11:07.639853+00:00"
+    },
+    {
+      "id": "66a393b0-adb6-4d63-b07e-5882b4fbfd79",
+      "class_id": "b05f2767-ed87-44b2-854d-9b5ac54756d9",
+      "stream_name": "Blue",
+      "class_teacher_id": null,
+      "capacity": 52,
+      "created_at": "2026-08-12T19:22:28.284887+00:00",
+      "updated_at": "2026-08-12T19:22:28.284887+00:00"
+    }
+  ],
+  "delete_stream_ids": [
+    "5a35d454-da0e-4177-8343-5bcecee4a541",
+    "4cabb361-9a96-424d-a9b0-46d1bbc0f348",
+    "69579521-a0d7-4968-a6fd-83f1119fbfe9",
+    "2af2e71e-3a8b-4496-8a5c-a64cc36dd6e9",
+    "d9d05d43-81ae-4e52-b1aa-c2f12955575d",
+    "687d885e-5521-42f2-a044-8f078a1ef049"
+  ],
+  "orphan_class_id": "02942f0a-79ff-42a6-bfc3-f6f98268e4ac"
+}

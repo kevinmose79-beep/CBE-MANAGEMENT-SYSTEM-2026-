@@ -1,0 +1,6 @@
+# Android and Java binary files
+*.jar binary
+*.aar binary
+*.apk binary
+*.keystore binary
+*.jks binary

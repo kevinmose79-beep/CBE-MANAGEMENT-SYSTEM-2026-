@@ -1,0 +1,88 @@
+name: Publish OTA Release
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+    inputs:
+      version:
+        description: 'Release version (semver alphanumeric, e.g. 1.0.2)'
+        required: true
+        type: string
+      channel:
+        description: 'Release channel'
+        required: true
+        default: 'staging'
+        type: choice
+        options:
+          - staging
+          - production
+      status:
+        description: 'Release status'
+        required: true
+        default: 'PUBLISHED'
+        type: choice
+        options:
+          - PUBLISHED
+          - DRAFT
+          - TESTING
+          - DISABLED
+      is_mandatory:
+        description: 'Flag release as mandatory'
+        required: false
+        default: false
+        type: boolean
+      release_notes:
+        description: 'Release notes / changelog'
+        required: false
+        type: string
+        default: 'Manual OTA release via GitHub Actions'
+
+jobs:
+  publish-ota:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Retrieve full history for native-change detection
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Code Linter
+        run: npm run lint
+
+      - name: Run Test Suite (Regression Coverage)
+        run: npx vitest run
+
+      - name: Determine OTA Version
+        id: ota_version
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.version }}" ]; then
+            echo "version=${{ github.event.inputs.version }}" >> $GITHUB_OUTPUT
+          else
+            # Extract package.json version and append build run number
+            PACKAGE_VER=$(node -p "require('./package.json').version")
+            echo "version=${PACKAGE_VER}-build.${{ github.run_number }}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Publish OTA Release Bundle
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL || 'https://csrttkkrlahzuswsvnsb.supabase.co' }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
+          OTA_BUNDLE_VERSION: ${{ steps.ota_version.outputs.version }}
+          OTA_RELEASE_CHANNEL: ${{ github.event.inputs.channel || 'staging' }}
+          OTA_RELEASE_STATUS: ${{ github.event.inputs.status || 'PUBLISHED' }}
+          IS_MANDATORY: ${{ github.event.inputs.is_mandatory || 'false' }}
+          RELEASE_NOTES: ${{ github.event.inputs.release_notes || 'Automated OTA build from push event' }}
+          MIN_NATIVE_VERSION_CODE: 1
+          # FORCE_OTA_PUBLISH: 'false'
+        run: npx tsx scripts/publishOtaRelease.ts
